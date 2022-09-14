@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- *main - entry point
- *
- * Description : prints _putchar as a message.
+ *main : prints _putchar as a message
  *
  * Return : 0 on success
  */
