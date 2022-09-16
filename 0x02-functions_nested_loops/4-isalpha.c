@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * _isalpha - Entry point
- * @c: integer value ascribed
+ * test_isalpha - Test the _isalpha function
+ * @c: integer value ascribed to _isalpha function
  * Description: checks for alphabets
  * Return: 1 on success. 0 on error.
  */
-int _isalpha(int c)
+ int _isalpha(int c)
 {
 	if (c >= 'a' && c <= 'z')
 	{
@@ -20,4 +20,5 @@ int _isalpha(int c)
 	{
 		return (0);
 	}
+_putchar('\n');
 }
