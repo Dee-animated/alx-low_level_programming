@@ -1,6 +1,5 @@
 #ifndef MAIN_H
 #define MAIN_H
-//This is an header file
 
 int _putchar(char c);
 
