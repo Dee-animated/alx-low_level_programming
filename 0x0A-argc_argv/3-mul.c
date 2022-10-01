@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
 
 	n = atoi(argv[1]);
 	m = atoi(argv[2]);
-	diff = n *m;
+	diff = n * m;
 
 	printf("%i\n", diff);
 
